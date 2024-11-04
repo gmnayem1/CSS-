@@ -1,0 +1,36 @@
+.rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{
+    text-align: center;
+    color:black;
+  }
+  p{
+    text-align: center;
+    color:cyan;
+  }
+  input{
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    border: none;
+  }
+  body{
+    background-image: url(../form.jpg);
+    block-size: cover;
+  }
+  button{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    font-size:10px;
+    padding: 5px;
+    margin: auto;
+    display: block;
+  }
+  button:hover{
+    background-color: antiquewhite;
+  }
+  
